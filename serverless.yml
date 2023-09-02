@@ -1,6 +1,6 @@
 app: github-action-demo
 
-service: simple-rest-service
+service: simple-rest-services
 
 frameworkVersion: '3'
 
