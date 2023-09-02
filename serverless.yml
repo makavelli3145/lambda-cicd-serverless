@@ -14,7 +14,7 @@ provider:
   memorySize: 128
   timeout: 30
   deploymentBucket:
-    name: simple-rest-service-${self:provider.stage}
+    name: simple-rest-services-${self:provider.stage}
     serverSideEncryption: AES256
     blockPublicAccess: true
   environment:
